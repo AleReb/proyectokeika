@@ -1,4 +1,4 @@
-# proyectokeika
+# proyectokeica
 KEICA, Kit Escolar de Investigación Científico Ambiental, es una herramienta educativa que integra ciencia, tecnología y territorio.
 
 ​
